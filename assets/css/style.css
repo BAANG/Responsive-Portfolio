@@ -5,6 +5,11 @@ body {
     background-image: url("../images/white-waves.png")
 }
 
+a {
+    color: #999999;
+    font-weight: bold;
+}
+
 #topbar {
     position: absolute;
     top: 0;
@@ -93,6 +98,7 @@ button {
 
 .nav {
     margin: auto;
+    text-align: center;
 }
 
 footer {
@@ -162,11 +168,19 @@ footer {
     .wrapper {
         width: 600px;
     }
+    
+    h1 {
+        width: 100%;
+    }
 }
 
 @media screen and (max-width: 640px) {
     .wrapper {
         width: 520px;
+    }
+
+    h1 {
+        width:100%;
     }
 
 }
