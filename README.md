@@ -12,5 +12,5 @@
 ---
 
 ![Index Responsive](assets/images/index-responsive.PNG)
-![Portfolio Responsive](assets/images/portfolio-responsive.png)
-![Contact Responsive](assets/images/contact-responsive.png)
+![Portfolio Responsive](assets/images/portfolio-responsive.PNG)
+![Contact Responsive](assets/images/contact-responsive.PNG)
