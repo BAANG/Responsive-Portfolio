@@ -157,16 +157,20 @@ footer {
     user-select: none;          /* Likely future */
 }
 
+#placeholder {
+    display: none;
+}
+
 @media screen and (max-width: 980px) {
     .wrapper {
-        width: 720px;
+        width: 768px;
     }
     
 }
 
 @media screen and (max-width: 768px) {
     .wrapper {
-        width: 600px;
+        width: 640px;
     }
     
     h1 {
@@ -181,6 +185,7 @@ footer {
         margin: 0 auto;
     }
 }
+    
 
 @media screen and (max-width: 640px) {
     .wrapper {
@@ -190,5 +195,7 @@ footer {
     h1 {
         width:100%;
     }
-
+    #placeholder {
+        display: inherit;
+    }
 }
