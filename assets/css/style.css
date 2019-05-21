@@ -172,6 +172,10 @@ footer {
     h1 {
         width: 100%;
     }
+
+    .nav-item {
+        margin: 0 auto;
+    }
 }
 
 @media screen and (max-width: 640px) {
