@@ -189,12 +189,22 @@ footer {
 
 @media screen and (max-width: 640px) {
     .wrapper {
-        width: 520px;
+        width: 576px;
     }
 
     h1 {
         width:100%;
     }
+    #placeholder {
+        display: inherit;
+    }
+}
+
+@media screen and (max-width:576px) {
+    .wrapper {
+        width: 475px;
+    }
+
     #placeholder {
         display: inherit;
     }
