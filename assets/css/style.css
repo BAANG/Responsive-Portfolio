@@ -87,6 +87,14 @@ button {
     color: #ffffff;
 }
 
+#navlink {
+    margin: auto;
+}
+
+.nav {
+    margin: auto;
+}
+
 footer {
     font-size: 14px;
     clear: both;
@@ -141,4 +149,24 @@ footer {
     -moz-user-select: none;     /* Firefox all */
     -ms-user-select: none;      /* IE 10+ */
     user-select: none;          /* Likely future */
+}
+
+@media screen and (max-width: 980px) {
+    .wrapper {
+        width: 720px;
+    }
+    
+}
+
+@media screen and (max-width: 768px) {
+    .wrapper {
+        width: 600px;
+    }
+}
+
+@media screen and (max-width: 640px) {
+    .wrapper {
+        width: 520px;
+    }
+
 }
