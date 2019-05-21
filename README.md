@@ -11,6 +11,8 @@
 
 ---
 
-![Index Responsive](assets/images/index-responsive.PNG)
-![Portfolio Responsive](assets/images/portfolio-responsive.PNG)
-![Contact Responsive](assets/images/contact-responsive.PNG)
+<img src="assets/images/index-responsive.PNG" width=50%>
+
+<img src="assets/images/portfolio-responsive.PNG" width=50%>
+
+<img src="assets/images/contact-responsive.PNG" width=50%>
