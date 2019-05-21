@@ -176,6 +176,10 @@ footer {
     .nav-item {
         margin: 0 auto;
     }
+
+    #profile {
+        margin: 0 auto;
+    }
 }
 
 @media screen and (max-width: 640px) {
